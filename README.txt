@@ -1,0 +1,1 @@
+This project include training different models for segmentation images of cars and evaluation of an accuracy.
